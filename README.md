@@ -31,7 +31,7 @@ To run this project locally on your machine, follow these steps:
 Clone the repository to your local machine using the following command:
 
 ```bash
-git clone https://github.com/vcr11/Wheather-APP.git
+git clone https://github.com/Chakradhar-24/Weather--APP.git
 ```
 
 ### 2. Navigate to the Project Directory
