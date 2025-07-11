@@ -31,7 +31,7 @@ To run this project locally on your machine, follow these steps:
 Clone the repository to your local machine using the following command:
 
 ```bash
-git clone https://github.com/vcr11/Wheather-APP.git
+git clone https://github.com/Chakradhar-24/Weather--APP.git
 ```
 
 ### 2. Navigate to the Project Directory
@@ -85,7 +85,7 @@ If you want to deploy the app to GitHub Pages, follow these steps:
 2. Update your `package.json` file with the following additions:
 
    ```json
-   "homepage": "https://vcr11.github.io/Wheather-APP",
+   "homepage": "https://github.com/Chakradhar-24/Weather--APP",
    "scripts": {
      "predeploy": "npm run build",
      "deploy": "gh-pages -d build"
