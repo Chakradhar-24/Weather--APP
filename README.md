@@ -85,7 +85,7 @@ If you want to deploy the app to GitHub Pages, follow these steps:
 2. Update your `package.json` file with the following additions:
 
    ```json
-   "homepage": "https://vcr11.github.io/Wheather-APP",
+   "homepage": "https://github.com/Chakradhar-24/Weather--APP.git",
    "scripts": {
      "predeploy": "npm run build",
      "deploy": "gh-pages -d build"
@@ -98,7 +98,7 @@ If you want to deploy the app to GitHub Pages, follow these steps:
    npm run deploy
    ```
 
-The app will be deployed to `https://vcr11.github.io/Wheather-APP`.
+The app will be deployed to `(https://github.com/Chakradhar-24)`.
 
 ## Usage
 
