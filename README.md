@@ -4,7 +4,7 @@ This is a Weather App built with React.js that allows users to search for and di
 
 ## Demo
 
-Check out the live demo of the app here: [Weather App Demo](https://github.com/Chakradhar-24/Weather--APP.git)
+Check out the live demo of the app here: [Weather App Demo](http://localhost:3000/Wheather-APP)
 
 ## Features
 
