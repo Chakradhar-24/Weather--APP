@@ -4,7 +4,7 @@ This is a Weather App built with React.js that allows users to search for and di
 
 ## Demo
 
-Check out the live demo of the app here: [Weather App Demo](https://github.com/Chakradhar-24/Weather--APP.git)
+Check out the live demo of the app here: [Weather App Demo](https://Chakri24.github.io/Wheather-APP)
 
 ## Features
 
@@ -85,7 +85,7 @@ If you want to deploy the app to GitHub Pages, follow these steps:
 2. Update your `package.json` file with the following additions:
 
    ```json
-   "homepage": "https://github.com/Chakradhar-24/Weather--APP",
+   "homepage": "https://Chakri24.github.io/Wheather-APP",
    "scripts": {
      "predeploy": "npm run build",
      "deploy": "gh-pages -d build"
@@ -98,7 +98,7 @@ If you want to deploy the app to GitHub Pages, follow these steps:
    npm run deploy
    ```
 
-The app will be deployed to `https://vcr11.github.io/Wheather-APP`.
+The app will be deployed to `https://Chakri24.github.io/Wheather-APP`.
 
 ## Usage
 
@@ -109,5 +109,5 @@ The app will be deployed to `https://vcr11.github.io/Wheather-APP`.
 
 If you have any questions or suggestions, feel free to contact me:
 
-- **GitHub**: [vcr11](https://github.com/vcr11)
+- **GitHub**: [Chakri-24](https://github.com/Chakradhar-24)
 
